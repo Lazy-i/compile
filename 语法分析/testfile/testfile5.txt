@@ -1,0 +1,20 @@
+ int havere1(){
+ const int a=10;
+  int cou;
+  int i;
+  scanf(cou,i);
+  printf(+i*9+i*6);
+  printf("i am your brother?",-cou*'A'-3);
+  cou=10;
+  return(cou);
+  }
+  
+  void simp(){
+  }
+  
+void main(){
+int i;
+int rus;
+for(i=-3*4+50;i>0;i=i-1)
+rus=3;
+}

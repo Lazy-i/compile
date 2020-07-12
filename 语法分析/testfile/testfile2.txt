@@ -1,0 +1,74 @@
+const int flag=10,b=-5;const char name='A',size='C';
+int count ,big0[20];char body[30],ch;
+
+void  havere1(){
+  int resu; 
+  int a;
+  a=1;
+  while(a<flag){
+  a=a+1;
+  }
+  while(a>flag){
+  a=a/2;
+  }
+  while(a<=flag){
+  a=a+1;
+  }
+  while(a>=flag){
+  a=a/2;
+  }
+  while(a==flag){
+  a=3*4;
+ }
+ resu = a;
+ }
+ 
+ void havere2(int a,int b){
+  int cou,i;
+  do 
+   if(a<flag){
+   a=a+1;
+   b=b*a+2;
+   }
+   while(a!=flag);
+   
+  for(i=1;i<flag;i=i+1){
+  a=a+1;
+  }
+    cou=a;
+  }
+  
+void havere3(char c,int a){
+char ch2;
+int b;
+b=1;
+ if(a==10)
+ ch2=c;
+ if(c=='A')
+ ch2=name;
+ else
+ ch2=c;
+ if(b)
+ ch2=c;
+ }
+ 
+
+ void nohave1(){
+  int jie;
+  jie = flag;
+  }
+  
+  void main(){
+  int can;
+  int m;
+   int i;
+  scanf(m,can);
+  can=3;
+  for(i=0;i<5;i=i+1);
+  do
+  ;
+  while(0);
+  printf("this is question");
+  havere1();
+  nohave1();
+  }

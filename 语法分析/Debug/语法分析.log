@@ -1,0 +1,8 @@
+﻿yf2.cpp(67,1): warning : control reaches end of non-void function [-Wreturn-type]
+yf2.cpp(71,1): warning : control reaches end of non-void function [-Wreturn-type]
+yf2.cpp(75,1): warning : control reaches end of non-void function [-Wreturn-type]
+yf2.cpp(79,1): warning : control reaches end of non-void function [-Wreturn-type]
+yf2.cpp(155,1): warning : control reaches end of non-void function [-Wreturn-type]
+yf2.cpp(168,1): warning : control reaches end of non-void function [-Wreturn-type]
+yf2.cpp(184,1): warning : control reaches end of non-void function [-Wreturn-type]
+  语法分析.vcxproj -> F:\Visual Studio\编译课设\Debug\语法分析.exe

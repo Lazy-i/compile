@@ -1,0 +1,259 @@
+﻿  yf2.cpp
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\Visual Studio\编译课设\语法分析\define2.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(134,1): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(135,1): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(136,1): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(137,1): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(171,1): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : 参见“sprintf”的声明
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(173,1): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : 参见“sprintf”的声明
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(191,1): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : 参见“sprintf”的声明
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(199,1): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : 参见“sprintf”的声明
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(200,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(202,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(210,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(211,1): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : 参见“sprintf”的声明
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(246,7): warning C4101: “p3”: 未引用的局部变量
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(380,35): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(626,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(627,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(642,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(643,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(693,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(723,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(818,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(904,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(863,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(871,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(900,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(933,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(942,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(969,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(978,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(1078,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(1089,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(1094,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(1100,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(1144,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(1155,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(1160,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(1166,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(1185,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(1223,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(1224,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(1251,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(1252,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(1284,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(1285,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(1298,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(1310,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(1352,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(1364,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(1385,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(1393,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(1406,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(1409,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(1421,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(1447,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(1454,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(1476,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(1502,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(1503,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(1510,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(1547,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(1564,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(1583,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(1816,12): error C2601: “symx”: 本地函数定义是非法的
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(1705): message : 此行有一个“{”没有匹配项
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(1851,14): error C2601: “symbds”: 本地函数定义是非法的
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(1705): message : 此行有一个“{”没有匹配项
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(1903,14): error C2601: “symzhs”: 本地函数定义是非法的
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(1705): message : 此行有一个“{”没有匹配项
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(1956,14): error C2601: “symcsb”: 本地函数定义是非法的
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(1705): message : 此行有一个“{”没有匹配项
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(2050,15): error C2601: “symfhyj”: 本地函数定义是非法的
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(1705): message : 此行有一个“{”没有匹配项
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(2061,19): error C2601: “symwfhzhsdy”: 本地函数定义是非法的
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(1705): message : 此行有一个“{”没有匹配项
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(2124,19): error C2601: “symyfhzhsdy”: 本地函数定义是非法的
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(1705): message : 此行有一个“{”没有匹配项
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(2179,2): error C2601: “symbldy”: 本地函数定义是非法的
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(1705): message : 此行有一个“{”没有匹配项
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(2278,15): error C2601: “symblsm”: 本地函数定义是非法的
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(1705): message : 此行有一个“{”没有匹配项
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(2344,15): error C2601: “symsmtb”: 本地函数定义是非法的
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(1705): message : 此行有一个“{”没有匹配项
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(2358,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(2377,16): error C2601: “symlxbsf”: 本地函数定义是非法的
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(1705): message : 此行有一个“{”没有匹配项
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(2396,16): error C2601: “symwfhzs”: 本地函数定义是非法的
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(1705): message : 此行有一个“{”没有匹配项
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(2413,13): error C2601: “symzs”: 本地函数定义是非法的
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(1705): message : 此行有一个“{”没有匹配项
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(2439,15): error C2601: “symcldy”: 本地函数定义是非法的
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(1705): message : 此行有一个“{”没有匹配项
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(2615,15): error C2601: “symclsm”: 本地函数定义是非法的
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(1705): message : 此行有一个“{”没有匹配项
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(2646,13): error C2601: “symcx”: 本地函数定义是非法的
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(1705): message : 此行有一个“{”没有匹配项
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(2714,13): error C2601: “symzfc”: 本地函数定义是非法的
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(1705): message : 此行有一个“{”没有匹配项
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(2725,13): error C2601: “symzf”: 本地函数定义是非法的
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(1705): message : 此行有一个“{”没有匹配项
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(2735,13): error C2601: “isgx”: 本地函数定义是非法的
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(1705): message : 此行有一个“{”没有匹配项
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(2746,14): error C2601: “ismult”: 本地函数定义是非法的
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(1705): message : 此行有一个“{”没有匹配项
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(2761,14): error C2601: “isplus”: 本地函数定义是非法的
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(1705): message : 此行有一个“{”没有匹配项
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(2777,11): error C2601: “cifa”: 本地函数定义是非法的
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(1705): message : 此行有一个“{”没有匹配项
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(3131,13): error C2601: “cifal”: 本地函数定义是非法的
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(1705): message : 此行有一个“{”没有匹配项
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(3388,13): error C2601: “cfot”: 本地函数定义是非法的
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(1705): message : 此行有一个“{”没有匹配项
+  源.cpp
+F:\Visual Studio\编译课设\语法分析\yf2.cpp(1705): fatal error C1075: “{”: 未找到匹配令牌
+F:\Visual Studio\编译课设\byfx\define2.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\Visual Studio\编译课设\byfx\yf2.cpp(414,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+F:\Visual Studio\编译课设\byfx\yf2.cpp(419,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+F:\Visual Studio\编译课设\byfx\yf2.cpp(425,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+F:\Visual Studio\编译课设\byfx\yf2.cpp(472,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+F:\Visual Studio\编译课设\byfx\yf2.cpp(477,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+F:\Visual Studio\编译课设\byfx\yf2.cpp(483,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+F:\Visual Studio\编译课设\byfx\yf2.cpp(1044,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+F:\Visual Studio\编译课设\byfx\yf2.cpp(1045,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+F:\Visual Studio\编译课设\byfx\yf2.cpp(1069,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+F:\Visual Studio\编译课设\byfx\yf2.cpp(1096,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+F:\Visual Studio\编译课设\byfx\yf2.cpp(1097,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+F:\Visual Studio\编译课设\byfx\yf2.cpp(1125,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+F:\Visual Studio\编译课设\byfx\yf2.cpp(1126,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+F:\Visual Studio\编译课设\byfx\yf2.cpp(1178,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+F:\Visual Studio\编译课设\byfx\yf2.cpp(1179,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+F:\Visual Studio\编译课设\byfx\yf2.cpp(1180,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+F:\Visual Studio\编译课设\byfx\yf2.cpp(1212,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+F:\Visual Studio\编译课设\byfx\yf2.cpp(1255,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+F:\Visual Studio\编译课设\byfx\yf2.cpp(1279,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+F:\Visual Studio\编译课设\byfx\yf2.cpp(1280,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+F:\Visual Studio\编译课设\byfx\yf2.cpp(1309,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+F:\Visual Studio\编译课设\byfx\yf2.cpp(1310,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+F:\Visual Studio\编译课设\byfx\yf2.cpp(1350,36): warning C4554: “&”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+F:\Visual Studio\编译课设\byfx\yf2.cpp(1361,36): warning C4554: “&”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+F:\Visual Studio\编译课设\byfx\yf2.cpp(1378,38): warning C4554: “&”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+F:\Visual Studio\编译课设\byfx\yf2.cpp(1389,38): warning C4554: “&”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+F:\Visual Studio\编译课设\byfx\yf2.cpp(1354,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+F:\Visual Studio\编译课设\byfx\yf2.cpp(1365,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+F:\Visual Studio\编译课设\byfx\yf2.cpp(1373,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+F:\Visual Studio\编译课设\byfx\yf2.cpp(1382,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+F:\Visual Studio\编译课设\byfx\yf2.cpp(1393,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+F:\Visual Studio\编译课设\byfx\yf2.cpp(1402,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+F:\Visual Studio\编译课设\byfx\yf2.cpp(1420,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+F:\Visual Studio\编译课设\byfx\yf2.cpp(1421,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+F:\Visual Studio\编译课设\byfx\yf2.cpp(1422,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+F:\Visual Studio\编译课设\byfx\yf2.cpp(1495,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+F:\Visual Studio\编译课设\byfx\yf2.cpp(1496,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+F:\Visual Studio\编译课设\byfx\yf2.cpp(1521,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+F:\Visual Studio\编译课设\byfx\yf2.cpp(1522,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+F:\Visual Studio\编译课设\byfx\yf2.cpp(1556,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+F:\Visual Studio\编译课设\byfx\yf2.cpp(1557,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+F:\Visual Studio\编译课设\byfx\yf2.cpp(1582,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+F:\Visual Studio\编译课设\byfx\yf2.cpp(1583,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  正在生成代码...
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明

@@ -1,0 +1,91 @@
+const int -214736483 main_const_int_1 
+const int 0 main_const_int_2 
+const int -3333 main_const_int_3 
+const int 2 main_const_int_4 
+const int -1 main_const_int_5 
+const int 111 main_const_int_6 
+const int 2 main_const_int_7 
+const char 95 main_const_char_1 
+const char 48 main_const_char_2 
+const char 122 main_const_char_3 
+const char 97 main_const_char_4 
+const char 45 main_const_char_5 
+const char 43 main_const_char_6 
+const char 42 main_const_char_7 
+const char 47 main_const_char_8 
+int       main_int_1 
+int       main_int_2 
+int       main_int_3 
+int 	    main_int_4 
+int       main_int_5 
+int 	    main_int_6 
+int 	    main_int_7 
+int array 2 main_int_8 
+int 	    main_int_9 
+int array 32 main_int_10 
+int array 1 main_int_11 
+char       main_char_1 
+char       main_char_2 
+char       main_char_3 
+char 	    main_char_4 
+char       main_char_5 
+char 	    main_char_6 
+char 	    main_char_7 
+char array 2 main_char_8 
+char 	    main_char_9 
+char array 32 main_char_10 
+char array 1 main_char_11 
+func       main 
+const int 0 main_const_int_1 
+const int -2147364830 main_const_int_2 
+const int 2 main_const_int_3 
+const int -3333 main_const_int_4 
+const int 111 main_const_int_5 
+const int -1 main_const_int_6 
+const int 0 main_const_int_7 
+const char 48 main_const_char_1 
+const char 95 main_const_char_2 
+const char 97 main_const_char_3 
+const char 122 main_const_char_4 
+const char 43 main_const_char_5 
+const char 45 main_const_char_6 
+const char 47 main_const_char_7 
+const char 42 main_const_char_8 
+int       main_int_1 
+int       main_int_2 
+int       main_int_3 
+int 	    main_int_4 
+int       main_int_5 
+int 	    main_int_6 
+int 	    main_int_7 
+int array 2 main_int_8 
+int 	    main_int_9 
+int array 32 main_int_10 
+int array 1 main_int_11 
+char       main_char_1 
+char       main_char_2 
+char       main_char_3 
+char 	    main_char_4 
+char       main_char_5 
+char 	    main_char_6 
+char 	    main_char_7 
+char array 2 main_char_8 
+char 	    main_char_9 
+char array 32 main_char_10 
+char array 1 main_char_11 
+prt  main_const_int_1 int 
+prt  main_const_int_2 int 
+prt  main_const_int_3 int 
+prt  main_const_int_4 int 
+prt  main_const_int_5 int 
+prt  main_const_int_6 int 
+prt  main_const_int_7 int 
+prt  main_const_char_1 char 
+prt  main_const_char_2 char 
+prt  main_const_char_3 char 
+prt  main_const_char_4 char 
+prt  main_const_char_5 char 
+prt  main_const_char_6 char 
+prt  main_const_char_7 char 
+prt  main_const_char_8 char 
+fund       main 

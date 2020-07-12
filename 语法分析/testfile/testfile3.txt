@@ -1,0 +1,49 @@
+const int a=10,b=-5;const char name='A',size='C';const char name_a='A';
+char havere1(){
+  char ch1;
+  int m;
+  int i;
+  i=+a*b;
+  ch1=size;
+  return(ch1);
+  }
+
+ int havere2(int a,int b){
+ int o[20];
+  int cou;
+  int sua;
+  cou=o[a+b];
+  cou='a'*'b';
+  cou = a+b;
+  return(cou);
+  }
+
+char havere3(char c,int a){
+char ch2;
+int b;
+b=1;
+ if(a==10)
+ ch2=c;
+ if(c=='A')
+ ch2=name;
+ else
+ ch2=c;
+ if(b)
+ ch2=c;
+ return(ch2);
+ }
+ 
+
+  void main(){
+  int can;
+  int m;
+  int sfun;
+  char t;
+  scanf(m,can);
+  can=3;
+  printf("this is question");
+  havere1();
+  havere2(a,b);
+  havere3(t,a);
+  sfun=havere2(a,b)+3;
+  }

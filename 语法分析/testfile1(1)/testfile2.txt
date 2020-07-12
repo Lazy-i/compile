@@ -1,0 +1,16 @@
+const int a1=1;
+const char b1='1',b2='*';
+void scan(int i,char j){
+	const char a4='5';
+	char a5;
+	char a6[100];
+	scanf(i);
+	scanf(i,j);
+}
+void main(){
+	const int a2=5;
+	const int a9=6;
+	int a3;
+	int a7[100];
+	scan(a1,b1);
+}

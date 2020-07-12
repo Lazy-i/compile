@@ -1,0 +1,691 @@
+﻿yf2.cpp(135,8): warning : 'fopen' is deprecated: This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(207,20): message : 'fopen' has been explicitly marked deprecated here
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(136,9): warning : 'fopen' is deprecated: This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(207,20): message : 'fopen' has been explicitly marked deprecated here
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(137,10): warning : 'fopen' is deprecated: This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(207,20): message : 'fopen' has been explicitly marked deprecated here
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(138,10): warning : 'fopen' is deprecated: This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(207,20): message : 'fopen' has been explicitly marked deprecated here
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(139,10): warning : 'fopen' is deprecated: This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(207,20): message : 'fopen' has been explicitly marked deprecated here
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(203,2): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(206,2): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(213,2): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(260,7): warning : unused variable 'p3' [-Wunused-variable]
+yf2.cpp(648,5): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(649,5): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(664,5): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(665,5): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(715,4): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(746,4): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(842,4): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(887,5): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(895,7): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(924,6): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(957,7): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(966,8): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(993,9): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(1002,10): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(1102,5): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(1113,4): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(1118,5): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(1124,5): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(1168,5): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(1179,4): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(1184,5): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(1190,5): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(1209,7): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(1158,7): warning : unused variable 'hsskadr' [-Wunused-variable]
+yf2.cpp(1247,3): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(1248,3): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(1275,3): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(1276,3): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(1308,3): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(1309,3): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(1322,7): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(1334,8): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(1376,11): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(1388,12): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(1409,13): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(1417,14): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(1430,13): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(1433,13): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(1445,14): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(1471,2): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(1478,5): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(1500,3): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(1526,3): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(1527,3): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(1534,5): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(1571,5): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(1588,4): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(1607,5): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(1762,3): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(1774,5): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(1781,6): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(1793,6): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(1799,4): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(1730,18): warning : unused variable 'p3' [-Wunused-variable]
+yf2.cpp(1845,2): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(1850,4): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(1852,4): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(1853,4): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(1865,4): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(1869,4): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(1884,3): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(1887,3): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(1888,3): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(1897,4): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(1899,4): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(1900,4): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(1910,3): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(1936,4): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(1937,4): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(1938,4): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(1968,8): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(1977,2): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(1931,7): warning : unused variable 'names' [-Wunused-variable]
+yf2.cpp(1993,4): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(2001,4): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(2004,4): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(2005,4): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(2029,7): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(2037,7): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(2040,7): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(2041,7): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(2096,4): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(2097,4): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(2098,4): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(2099,4): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(2134,9): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(2159,4): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(2189,8): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(2220,4): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(2221,4): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(2260,6): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(2261,6): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(2315,4): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(2326,4): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(2334,4): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(2343,6): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(2354,6): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(2363,3): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(2381,4): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(2382,4): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(2383,4): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(2455,4): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(2457,4): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(2472,4): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(2473,4): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(2515,7): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(2516,7): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(2576,4): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(2577,4): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(2605,7): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+yf2.cpp(2606,7): warning : 'strcpy' is deprecated: This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 'strcpy' has been explicitly marked deprecated here
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(748,5): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1'
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(1831,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_1_EX'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(309,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+E:\Program Files\VisualStudio\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(299,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+  语法分析.vcxproj -> F:\Visual Studio\编译课设\x64\Debug\语法分析.exe

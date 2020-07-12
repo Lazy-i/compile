@@ -1,0 +1,13 @@
+int PPQ;
+void main(){
+	const int QWQ=-10;
+	while(0)
+	for(PPQ=0;PPQ<=10;PPQ=PPQ+0)
+	printf(" !#$%&'()*+,-./0123456789:;<=>?@BCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~",PPQ);
+	do
+	printf(" !#$%&'()*+,-./0123456789:;<=>?@BCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~");
+	while(PPQ>1)
+	printf(PPQ);
+	for(PPQ=0;PPQ<=-(+10);PPQ=PPQ-0);
+	return;
+}

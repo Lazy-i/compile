@@ -1,0 +1,25 @@
+char A4A,B2B,D[90];
+int _A,_B,c[12],E1[13];
+int pd(int p,int q){
+	int s;
+	{
+	if(+p<+q-p*2)
+		return (p);
+	else if(p==q-p)
+		return (p/q);
+	else if(p!=0)
+		return (p+q);
+	else if(p>=c[1])
+		return (c[1]);
+	else
+		return (p*'a');
+	if(0);
+	}
+}
+char rt(char t){
+	return (t);
+}
+void main(){
+	c[1]=10;
+	pd(_A,_B);
+}

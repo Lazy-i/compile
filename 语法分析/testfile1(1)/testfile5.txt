@@ -1,0 +1,6 @@
+void helloworld(){
+    printf("HelloWorld");
+}
+void main(){
+    helloworld();
+}

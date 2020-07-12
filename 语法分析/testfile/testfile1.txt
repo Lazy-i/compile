@@ -1,0 +1,22 @@
+const int a = 1;
+
+char charfun(){
+	const char a = 'b';
+	int c;
+	c = 2;
+	return (c);
+}
+int intfun(){
+	int c;
+	int d;
+	c = -2;
+	c = d;
+	return(c);
+}
+void main(){
+	char a;
+	a = 'z';
+	printf(a);
+	printf(intfun());
+	printf(charfun());
+}

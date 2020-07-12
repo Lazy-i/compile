@@ -1,0 +1,18 @@
+const int c=0,ef1=2;
+const char a='+';
+int b,k;
+char u;
+int ADD(int i){
+	i=i+1;
+	return(+1); 
+}
+void MUT(int j,int k){
+	j=1*(+2);
+	j=1+(++2);
+	j=1*ADD(j);
+	return;
+}
+void main(){
+	ADD(b);
+	MUT(k,c);
+}

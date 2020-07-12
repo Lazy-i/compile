@@ -1,0 +1,16 @@
+void main(){
+const int A=+7;
+const int my=180;
+const char me='G';const char add='+';const char sub='-';const char cheng='*';
+const char chu='/';
+const char shuzi='5';
+int a[20],b[20];
+int i,j;
+i=3;
+j=5;
+a[5]=a[i]+a[j];
+a[6]=(i+j/2)+a[j];
+a[15]=+a[i]*((j-i)/2)-3;
+scanf(i);
+j=9876543210;
+}
